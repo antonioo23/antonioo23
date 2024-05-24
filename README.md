@@ -25,9 +25,9 @@ Estudante do Ensino Médio, amante do futebol e apaixonado por adrenalina.
   <img width="50" height="50" src="https://github.com/antonioo23/antonioo23/assets/107552515/93f67505-e47f-494d-8462-1618db7b0a12"/>
 </div>
 
-##
+## 
 
-## Você também me encontra em:
+### Você também me encontra em:
 
 <div display="inline">
   <a href="https://www.facebook.com/antonio.veronese.161">
@@ -40,7 +40,7 @@ Estudante do Ensino Médio, amante do futebol e apaixonado por adrenalina.
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
   </a> 
 
-## Pode aproveitar para ver alguns sites que eu criei:
+### Pode aproveitar para ver alguns sites que eu criei:
 
 • [Gerador de senhas para ter mais segurança em suas contas](https://antonioo23.github.io/seguranca_digital/)
 
