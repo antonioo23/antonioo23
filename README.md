@@ -25,8 +25,6 @@ Estudante do Ensino Médio, amante do futebol e apaixonado por adrenalina.
   <img width="50" height="50" src="https://github.com/antonioo23/antonioo23/assets/107552515/93f67505-e47f-494d-8462-1618db7b0a12"/>
 </div>
 
-
-
 ### Você também me encontra em:
 
 <div display="inline">
