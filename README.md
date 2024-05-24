@@ -27,9 +27,18 @@ Estudante do Ensino Médio, amante do futebol e apaixonado por adrenalina.
 
 ##
 
-## Você me encontra também em:
+## Você também me encontra em:
 
-
+<div display="inline">
+  <a href="https://www.facebook.com/antonio.veronese.161">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
+  </a> 
+  <a href="https://www.instagram.com/vrnese/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a> 
+  <a href="https://www.reddit.com/user/vrnese/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a> 
 
 ## Pode aproveitar para ver alguns sites que eu criei:
 
